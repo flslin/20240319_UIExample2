@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "859851519680",
+    "firebase_url": "https://mygamedatabase-caadc-default-rtdb.firebaseio.com",
+    "project_id": "mygamedatabase-caadc",
+    "storage_bucket": "mygamedatabase-caadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859851519680:android:52cc738898ad165e809f25",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UIExample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmGQbOD62lxUd43e6ONuDvDMXzSa03Su4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
